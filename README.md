@@ -20,3 +20,4 @@ created pivot table from insert tab and give field as "cancer history" and "smok
 "state id" in raws "hospital tier" in column "average of charges" in values 
 "age" in raws "average of HbA1C" "Average of BMI" in values and created a "line chart" from pivot charts
 "AGE" in raws "average of charges" in values
+created Dashboard and slicer for weight status and Diabetis status
